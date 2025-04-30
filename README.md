@@ -12,7 +12,7 @@ The goal of this project is to predict the **Exited** column, which indicates wh
 
 ## 🌐 Hosted App
 You can test the model using the Streamlit app here:  
-👉 [**ANN Classification App**]([https://ann-classification-dacafmrvgmrmvtbpqwfses.streamlit.app/](https://customer-churn-prediction-ann-2nqmacs43asrdsts6owfh4.streamlit.app/))
+👉 [**ANN Classification App**](https://customer-churn-prediction-ann-2nqmacs43asrdsts6owfh4.streamlit.app/)
 
 ---
 
