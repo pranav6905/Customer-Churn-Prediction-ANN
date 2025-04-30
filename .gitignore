@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs (optional)
+logs/
+
+# OS-specific junk files
+.DS_Store
+Thumbs.db
