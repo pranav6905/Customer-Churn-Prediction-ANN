@@ -18,7 +18,7 @@ You can test the model using the Streamlit app here:
 
 ## Blog Link
 You can read the detailed blog on Medium:                                                  
-👉 [**Blog**]([https://medium.com/@pranavkhunt6905/predicting-customer-churn-with-artificial-neural-networks-727b5fc1483a])
+👉 [**Blog**](https://medium.com/@pranavkhunt6905/predicting-customer-churn-with-artificial-neural-networks-727b5fc1483a)
 
 ---
 
