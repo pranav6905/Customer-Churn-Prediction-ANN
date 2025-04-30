@@ -12,7 +12,13 @@ The goal of this project is to predict the **Exited** column, which indicates wh
 
 ## 🌐 Hosted App
 You can test the model using the Streamlit app here:  
-👉 [**ANN Classification App**](https://ann-classification-dacafmrvgmrmvtbpqwfses.streamlit.app/)
+👉 [**ANN Classification App**]([https://ann-classification-dacafmrvgmrmvtbpqwfses.streamlit.app/](https://customer-churn-prediction-ann-2nqmacs43asrdsts6owfh4.streamlit.app/))
+
+---
+
+## Blog Link
+You can read the detailed blog on Medium:                                                  
+👉 [**Blog**]([https://medium.com/@pranavkhunt6905/predicting-customer-churn-with-artificial-neural-networks-727b5fc1483a])
 
 ---
 
@@ -63,6 +69,8 @@ You can test the model using the Streamlit app here:
 - Pandas
 
 ---
-
-
+## Members
+- Pranav Khunt(23ucs671)
+- Ved Rathavi(23ucs735)
+- Anshul Patel(23ucs539)
 
