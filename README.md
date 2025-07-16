@@ -69,8 +69,3 @@ You can read the detailed blog on Medium:
 - Pandas
 
 ---
-## Members
-- Pranav Khunt(23ucs671)
-- Ved Rathavi(23ucs735)
-- Anshul Patel(23ucs539)
-
